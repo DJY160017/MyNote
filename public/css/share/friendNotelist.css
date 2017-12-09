@@ -1,0 +1,22 @@
+.friend-notelist-title-line{
+    border-bottom: groove;
+}
+.friend-notelist-notebookname{
+    font-size: 17px;
+}
+.search-friend-note{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 100px;
+}
+.friend-note-info-list{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+}
+.miss-result-show-friend-note{
+    margin-top: 150px;
+}
+.friend-note-search-g{
+    color: #409EFF
+}

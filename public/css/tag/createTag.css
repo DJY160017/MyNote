@@ -1,0 +1,45 @@
+.main{
+    margin-top: 150px;
+    margin-left: 450px;
+    width: 600px;
+    height: 400px;
+}
+.head{
+    margin-left: 180px;
+    width: 100px;
+    border-bottom: groove;
+    text-align: center;
+}
+.note-tag-logo{
+    color: #409EFF;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.tag-introduction{
+    font-size: 16px;
+}
+.tag-input-name{
+    margin-top: 50px;
+    margin-left: 20px;
+    left: 100px;
+}
+.tag-name-create-button{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.create-cancel{
+    width: 180px;
+    height: 33px;
+}
+.create-confirm{
+    width: 180px;
+    height: 33px;
+}
+.info-for-tag{
+    position: absolute;
+    top: 295px;
+    left:850px;
+    height: 25px;
+}

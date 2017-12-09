@@ -1,0 +1,34 @@
+.myNavbar{
+    width: 100%;
+    border-right: none;
+    border-left: none;
+}
+.collapse{
+    margin-top: 6px;
+}
+.logo{
+    font-family: "Arial Black";
+    font-size: 25px;
+    color: #409EFF;
+}
+.right-nav{
+    font-size: 15px;
+}
+.note-plus{
+    color: #409EFF
+}
+.note-book{
+    color: #409EFF
+}
+.note-friend{
+    color: #409EFF
+}
+.note-search{
+    color: #409EFF
+}
+.note-tag{
+    color: #409EFF
+}
+.note-check{
+    color: #409EFF
+}

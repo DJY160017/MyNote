@@ -1,0 +1,42 @@
+.note-head{
+    border-bottom: groove;
+    margin-bottom: 5px;
+    /*color: whitesmoke;*/
+}
+.note-bookname{
+    margin-bottom: 5px;
+}
+.name-tag-show{
+    margin-bottom: 5px;
+}
+.note-tagname{
+    margin-bottom: 5px;
+}
+.note-title-new{
+    border: none;
+    margin-bottom: 4px;
+    height: 35px;
+    width: 300px;
+}
+.confirm-note{
+    position: absolute;
+    left: 1130px;
+    top: 84px;
+}
+.note-operation{
+    position: absolute;
+    left: 1200px;
+    top: 90px;
+    font-size: 19px;
+}
+.remove-note-hints-show{
+    width: 300px;
+    height: 125px;
+    left: 515px;
+    top: 250px;
+    background: white;
+}
+.summer-note{
+    height: 450px;
+}
+

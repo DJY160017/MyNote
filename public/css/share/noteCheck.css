@@ -1,0 +1,22 @@
+.note-head{
+    border-bottom: groove;
+    margin-bottom: 5px;
+}
+.user-name-tag-show{
+    margin-bottom: 5px;
+}
+.note-title-new{
+    border: none;
+    margin-bottom: 4px;
+    height: 35px;
+    width: 300px;
+}
+.note-return{
+    position: absolute;
+    left: 1190px;
+    top: 84px;
+}
+.summer-note-check{
+    height: 450px;
+}
+

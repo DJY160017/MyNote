@@ -1,0 +1,51 @@
+.profile-tile{
+    width: 100%;
+    border-bottom: groove;
+}
+.password-tile{
+    width: 100%;
+    border-bottom: groove;
+    margin-top: 50px;
+}
+.user-head{
+    position: absolute;
+    top: 125px;
+    left: 800px;
+    width: 150px;
+    height: 150px;
+    margin-top: 20px;
+}
+.push-head{
+    margin-top: 10px;
+    width: 150px;
+}
+.mail{
+    width: 300px;
+    margin-top: 30px;
+}
+.introduction{
+    width: 300px;
+    margin-top: 30px;
+}
+.profile-save{
+    width: 100px;
+    margin-top: 33px;
+    margin-left: 80px;
+}
+.profilePanel{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.profile-password-panel{
+    margin-top: 40px;
+    margin-left: 300px;
+    width: 40%;
+}
+.profile-password-button{
+    margin-top: 25px;
+    margin-left: 180px;
+}
+.user-head-img-class{
+    width: 151px;
+    height: 205px;
+}

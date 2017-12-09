@@ -1,0 +1,38 @@
+.search-user{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 60px;
+}
+.user-info-list{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+}
+.miss-result-show-user{
+    margin-top: 150px;
+}
+.search-user-nam-input{
+    width: 150px;
+}
+.user-search-g{
+    color: #409EFF
+}
+.search-friend{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 60px;
+}
+.friend-info-list{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+}
+.miss-result-show-friend{
+    margin-top: 150px;
+}
+.search-friend-name-input{
+    width: 150px;
+}
+.friend-search-g{
+    color: #409EFF
+}
